@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
-## Software developer
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Software engineer with science background and experience in developing Java-based applications. Possess a B. S. in Computer Science from the University of Florida and completed a bootcamp-styled training program on full stack Java. Currently, working on a React nanodegree from Udacity.
 
 
