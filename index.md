@@ -2,8 +2,10 @@
 layout: page
 title: Don Vu
 ---
+
 ## Software Developer
 
-Java, Spring Boot, MySQL, React, AWS
+![Don Vu](/me.png){:class="img-responsive"}
 
+Major Focuses: Java, Spring Boot, MySQL, React, AWS
 
