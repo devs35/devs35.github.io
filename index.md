@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: landing
 title: Don Vu
 ---
 
-## Software Developer
+<h2 style="text-align:center"> Software Developer </h2>
 
-![Don Vu](/me.png){:class="img-responsive"}
-
-Major Focuses: Java, Spring Boot, MySQL, React, AWS
-
+<p align="center">
+  <img width="370" height="370" src="/me.png">
+</p>
+<p align="center">
+  Major Focuses: Java, Spring Boot, MySQL, React, AWS
+</p>
